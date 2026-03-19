@@ -31,7 +31,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/kumar-pinku/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Pinku_Kumar-blue?logo=linkedin"></a>
-<a href="mailto:kumarpinku494@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-kumarpinku494@gmail.com@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:kumarpinku494@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-kumarpinku494@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
  <!--⭐️ From [Pinku Kumar](https://github.com/kumar-pinku)-->
