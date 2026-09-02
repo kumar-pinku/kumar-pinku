@@ -1,10 +1,14 @@
 <h1 align="center"> Hola,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Pinku Kumar</h1>
 
-- 💼 Currently working as a **Web Developer** at **Multivariate AI**, building scalable tools and web applications.
-- 🚀 Focused on becoming a **Full Stack Product Engineer**, with experience across **Next.js, Node.js, APIs, and automation systems**.
-- 🧠 Passionate about **building real products, improving system architecture, and optimizing performance**.
-- 🔧 Enjoy working across **both frontend and backend**, turning ideas into practical solutions.
-- 📫 Reach me at: **https://pinkuthesmart.netlify.app**
+- 🚀 **Full-Stack Product Engineer** with experience across **Next.js, React, TypeScript, Node.js, APIs, PostgreSQL, and automation systems**.
+
+- 📱 Also experienced in **React Native and Android development (Kotlin/Java)**, with multiple apps shipped to **Google Play and the Apple App Store**.
+
+- 🧠 Passionate about **building real products, designing scalable systems, improving architecture, and optimizing performance**.
+
+- 🔧 Enjoy working across the **frontend, backend, and mobile stack**, turning ideas into reliable, production-ready products.
+
+- 📫 Reach me at: [**https://pinkuthesmart.netlify.app**](https://pinkuthesmart.netlify.app)
 
 
 ### Languages:
